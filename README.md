@@ -1,3 +1,3 @@
 # hello-world
 Just another project
-Testing the feature brranch
+Testing the feature branch
